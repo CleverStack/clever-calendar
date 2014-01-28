@@ -5,6 +5,7 @@
     "Daniel Durante <me@danieldurante.com>"
   ],
   "description": "Calendar module for the CleverStack ecosystem",
+  "homepage": "https://github.com/CleverStack/clever-calendar",
   "main": "main.js",
   "license": "MIT",
   "keywords": [
