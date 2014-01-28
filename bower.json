@@ -1,0 +1,24 @@
+{
+  "name": "clever-calendar",
+  "version": "0.0.1",
+  "authors": [
+    "Daniel Durante <me@danieldurante.com>"
+  ],
+  "description": "Calendar module for the CleverStack ecosystem",
+  "main": "main.js",
+  "license": "MIT",
+  "keywords": [
+    "cleverstack",
+    "clevertech",
+    "cleverstack-module",
+    "cleverstack-frontend"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "rename": "cs_calendar"
+}
